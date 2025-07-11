@@ -1,2 +1,2 @@
-FROM apache2
-WORKDIR /var/www/html/
+FROM nginx
+
